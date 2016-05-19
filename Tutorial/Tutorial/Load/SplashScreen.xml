@@ -1,0 +1,6 @@
+﻿ <SplashScreen>
+   <Image>
+     <Path>SplashScreen/cme</Path>
+     <Effects>FadeEffect</Effects>
+   </Image>
+ </SplashScreen>
